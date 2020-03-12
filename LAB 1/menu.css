@@ -1,0 +1,45 @@
+.row {
+   display: flex;
+   justify-content: space-around;
+   margin-bottom: 10px; 
+}
+
+.item-wrapper {
+    width: 100px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.food-title {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.food-price {
+    color: red;
+}
+
+a.cart-button {
+    padding: 5px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    display: block;
+}
+
+footer {
+    background-color: orange;
+    color: white;
+    height: 100px;
+    padding-top: 30px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.footerbutton {
+    color: white;
+}
